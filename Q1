@@ -1,1 +1,2 @@
-Explain what git clone does, in your own words.
+Git clone creates a directory, goes into that directory, initialises it as a git directory.
+Then, it creates a remote connection from the destination specified and pulls the files.
