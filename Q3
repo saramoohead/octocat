@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is an easy way to experiment with changing code. Based on the point you create the branch, you can commit endlessly until you decide that you want to share or keep the new code by merging the branch back into the master - or easily reset to the point of the branch.
