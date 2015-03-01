@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The "upstream" remote is relative to your local working directory, and describes where you've pulled from. It refers to a shared parent repository.
